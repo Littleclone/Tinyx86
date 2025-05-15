@@ -1,1 +1,0 @@
-Here is normaly the place where the builded .exe (if windows) ends.
