@@ -4,7 +4,7 @@
 more about x86 Realmode (Bare Metal) and the assembly language and how the BIOS interrupts work.
 More about me [here](https://github.com/Littleclone/Myself).
 2. Second, i have my own style to code what works really good for me, but its maybe harder for others to read
-so i set some rules you can read to make it easier for you to read, i will also comment more things.[rules](https://github.com/Littleclone/Tinyx86/tree/main/docs/rules.md)
+so i set some rules you can read to make it easier for you to read, i will also comment more things.[rules](https://github.com/Littleclone/Tinyx86/blob/master/docs/rules.md)
 
 Please remember that i am Learning and do things my way, you are free to point out bugs and errors, but please
 remember, i write in my own style because its works better for me. More you find [here](https://github.com/Littleclone/Myself).
@@ -17,7 +17,7 @@ I try to make it as accurate as possible and i will try to comment everything as
 
 ---
 ## Where i cand find more informations?
-You can find more informations in the "docs" folder or [here](https://github.com/Littleclone/Tinyx86/tree/main/docs).
+You can find more informations in the "docs" folder or [here](https://github.com/Littleclone/Tinyx86/tree/master/docs).
 
 ---
 # Lizenz
