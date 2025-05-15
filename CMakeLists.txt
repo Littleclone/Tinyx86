@@ -9,4 +9,6 @@ set(CMAKE_C_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/build)
 
 # Füge die ausführbare Datei hinzu
-add_executable(${PROJECT_NAME} main.c)
+add_executable(${PROJECT_NAME} main.c
+        Software/src/essentials.c
+        Software/header/essentials.h)
