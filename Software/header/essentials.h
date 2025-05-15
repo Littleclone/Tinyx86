@@ -1,7 +1,13 @@
 //
 // Created by Hannah on 15.05.2025.
 //
-
+/*
+ * MIT License
+ * Copyright (c) 2025 Littleclone
+ * Permission is granted to use, copy, modify, and distribute this software,
+ * provided that the copyright notice and this permission notice are included.
+ * The software is provided "as is", without warranty of any kind.
+ */
 #ifndef ESSENTIALS_H
 #define ESSENTIALS_H
 
