@@ -85,3 +85,17 @@ unsigned char* P_StrCpy(const unsigned char* string) {
     }
     return newString;
 }
+bool P_StrCmp(const unsigned char* string1, const unsigned char* string2) {
+    while (1) {
+        if (*string1 == '\0' && *string2 == '\0') {
+            return true;
+        }
+        if (*string1 == *string2) {
+            ++string1;
+            ++string2;
+        }
+        else {
+            return false;
+        }
+    }
+}

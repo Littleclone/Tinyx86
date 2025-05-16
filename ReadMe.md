@@ -16,9 +16,14 @@ With this i also try to make it easier for me to know how i write bare Assembly 
 I try to make it as accurate as possible and i will try to comment everything as much as possible.
 
 ---
-## Where i cand find more informations?
+## Where can i find more informations?
 You can find more informations in the "docs" folder or [here](https://github.com/Littleclone/Tinyx86/tree/master/docs).
 
 ---
 # Lizenz
 This project is licensed under the [MIT License](LICENSE.txt).
+
+
+---
+## What IDE i use?
+I use [CLion](https://www.jetbrains.com/clion/), but you can use any IDE you want because i removed any IDE specific files in the Repository.

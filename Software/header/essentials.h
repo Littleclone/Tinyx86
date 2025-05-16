@@ -99,5 +99,12 @@ unsigned char* P_StrAdd(const unsigned char* string, const unsigned char* string
  */
 unsigned char* P_StrCpy(const unsigned char* string);
 
-
+/**
+ * @brief Compares two null-terminated strings for equality.
+ *
+ * @param string1 Pointer to the first null-terminated string to compare.
+ * @param string2 Pointer to the second null-terminated string to compare.
+ * @return True if both strings are identical, otherwise false.
+ */
+bool P_StrCmp(const unsigned char* string1, const unsigned char* string2);
 #endif //ESSENTIALS_H
